@@ -1,5 +1,5 @@
 import { parse } from "node-html-parser";
-import csstree from "css-tree";
+import * as csstree from "css-tree";
 
 figma.showUI(__html__, { width: 400, height: 450 });
 
