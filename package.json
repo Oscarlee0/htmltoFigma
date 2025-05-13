@@ -44,6 +44,7 @@
   },
   "dependencies": {
     "css-tree": "^3.1.0",
+    "fast-xml-parser": "^5.2.2",
     "node-html-parser": "^7.0.1"
   }
 }
